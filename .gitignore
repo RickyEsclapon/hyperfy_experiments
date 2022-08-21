@@ -2,3 +2,10 @@
 .Rhistory
 .RData
 .Ruserdata
+
+node_modules/
+build/
+.DS_Store
+*.blend1
+.Rproj.user
+
